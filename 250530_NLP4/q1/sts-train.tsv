@@ -1,0 +1,60 @@
+genre	filename	year	id	score	sentence1	sentence2
+main-captions	MSRvid	2012test	0001	5.000	비행기가 이륙하고 있다.	비행기가 이륙하고 있다.
+main-captions	MSRvid	2012test	0004	3.800	한 남자가 큰 플루트를 연주하고 있다.	남자가 플루트를 연주하고 있다.
+main-captions	MSRvid	2012test	0005	3.800	한 남자가 피자에 치즈를 뿌려놓고 있다.	한 남자가 구운 피자에 치즈 조각을 뿌려놓고 있다.
+main-captions	MSRvid	2012test	0006	2.600	세 남자가 체스를 하고 있다.	두 남자가 체스를 하고 있다.
+main-captions	MSRvid	2012test	0009	4.250	한 남자가 첼로를 연주하고 있다.	자리에 앉은 남자가 첼로를 연주하고 있다.
+main-captions	MSRvid	2012test	0011	4.250	몇몇 남자들이 싸우고 있다.	두 남자가 싸우고 있다.
+main-captions	MSRvid	2012test	0012	0.500	남자가 담배를 피우고 있다.	남자가 스케이트를 타고 있다.
+main-captions	MSRvid	2012test	0013	1.600	남자가 피아노를 치고 있다.	남자가 기타를 연주하고 있다.
+main-captions	MSRvid	2012test	0014	2.200	한 남자가 기타를 치고 노래를 부르고 있다.	한 여성이 어쿠스틱 기타를 연주하고 노래를 부르고 있다.
+main-captions	MSRvid	2012test	0016	5.000	사람이 고양이를 천장에 던지고 있다.	사람이 고양이를 천장에 던진다.
+main-captions	MSRvid	2012test	0017	4.200	그 남자는 다른 남자를 막대기로 때렸다.	그 남자는 다른 남자를 막대기로 때렸다.
+main-captions	MSRvid	2012test	0018	4.600	한 여성이 아기를 안아서 캥거루를 안는다.	한 여성이 아기를 안아서 팔에 캥거루를 안는다.
+main-captions	MSRvid	2012test	0019	3.867	남자가 플루트를 연주하고 있다.	남자가 대나무 플루트를 연주하고 있다.
+main-captions	MSRvid	2012test	0020	4.667	사람이 종이 한 장을 접고 있다.	누군가가 종이를 접고 있다.
+main-captions	MSRvid	2012test	0021	1.667	한 남자가 도로를 달리고 있다.	판다 개가 도로에서 달리고 있다.
+main-captions	MSRvid	2012test	0022	3.750	개가 베이컨을 등에서 떼려고 하고 있다.	개가 등에 있는 베이컨을 먹으려고 하고 있다.
+main-captions	MSRvid	2012test	0025	5.000	북극곰이 눈 위에서 미끄러지고 있다.	북극곰이 눈 위로 미끄러져 가고 있다.
+main-captions	MSRvid	2012test	0026	0.500	여자가 글을 쓰고 있다.	여자가 수영을 하고 있다.
+main-captions	MSRvid	2012test	0028	3.800	고양이가 아기의 얼굴을 문지르고 있다.	고양이가 아기에게 문지르고 있다.
+main-captions	MSRvid	2012test	0029	5.000	남자가 말을 타고 있다.	남자가 말을 타고 있다.
+main-captions	MSRvid	2012test	0030	3.200	한 남자가 냄비에 기름을 부어 넣는다.	한 남자가 냄비에 와인을 붓는다.
+main-captions	MSRvid	2012test	0031	2.800	남자가 기타를 치고 있다.	한 소녀가 기타를 치고 있다.
+main-captions	MSRvid	2012test	0032	4.600	판다가 슬라이드 아래로 미끄러져 내려간다.	판다가 슬라이드 아래로 미끄러진다.
+main-captions	MSRvid	2012test	0034	3.000	여자가 뭔가를 먹고 있다.	한 여성이 고기를 먹고 있다.
+main-captions	MSRvid	2012test	0035	5.000	한 여자가 감자 껍질을 벗긴다.	한 여성이 감자 껍질을 벗기고 있다.
+main-captions	MSRvid	2012test	0038	4.800	그 소년은 자전거에서 떨어졌다.	한 소년이 자전거에서 떨어진다.
+main-captions	MSRvid	2012test	0040	5.000	여자가 플루트를 연주하고 있다.	한 여성이 플루트를 연주하고 있다.
+main-captions	MSRvid	2012test	0042	4.200	토끼가 독수리에게서 뛰고 있다.	토끼가 독수리에게서 도망치고 있다.
+main-captions	MSRvid	2012test	0044	4.200	여자가 빵을 곁들인 돼지고기를 튀기고 있다.	한 여성이 빵을 곁들인 돼지고기를 요리하고 있다.
+main-captions	MSRvid	2012test	0046	4.000	한 소녀가 연을 날리고 있다.	달리는 소녀가 연을 날리고 있다.
+main-captions	MSRvid	2012test	0047	4.000	한 남자가 기계식 황소를 타고 있다.	한 남자가 기계식 황소를 탔다.
+main-captions	MSRvid	2012test	0048	4.909	남자가 기타를 연주하고 있다.	남자가 기타를 치고 있다.
+main-captions	MSRvid	2012test	0050	3.000	한 여성이 다른 여성들과 춤추고 노래하고 있다.	한 여성이 빗속에서 춤추고 노래하고 있다.
+main-captions	MSRvid	2012test	0052	2.400	남자가 빵을 자르고 있다.	남자가 양파를 자르고 있다.
+main-captions	MSRvid	2012test	0053	4.200	남자가 팬에 기름을 부어 넣고 있다.	남자가 프라이팬에 기름을 부어 넣고 있다.
+main-captions	MSRvid	2012test	0054	3.400	사자가 사람들과 놀고 있다.	사자가 두 남자와 놀고 있다.
+main-captions	MSRvid	2012test	0055	5.000	개가 스케이트보드를 탄다.	개가 스케이트보드를 타고 있다.
+main-captions	MSRvid	2012test	0056	3.750	누군가가 동상을 조각하고 있다.	한 남자가 조각상을 조각하고 있다.
+main-captions	MSRvid	2012test	0057	2.750	한 여성이 양파를 자르고 있다.	남자가 양파를 자르고 있다.
+main-captions	MSRvid	2012test	0058	5.000	여자는 새우 껍질을 벗긴다.	한 여성이 새우 껍질을 벗기고 있다.
+main-captions	MSRvid	2012test	0059	4.000	한 여성이 생선 튀김을 하고 있다.	한 여성이 생선을 요리하고 있다.
+main-captions	MSRvid	2012test	0061	3.600	한 여성이 일렉트릭 기타를 연주하고 있다.	한 여성이 기타를 치고 있다.
+main-captions	MSRvid	2012test	0062	1.600	새끼 호랑이가 공을 가지고 놀고 있다.	아기가 인형을 가지고 놀고 있다.
+main-captions	MSRvid	2012test	0064	1.750	사람이 토마토를 자르고 있다.	사람이 고기를 썰고 있다.
+main-captions	MSRvid	2012test	0065	5.000	사람이 양파를 잘랐다.	사람이 양파를 자르고 있다.
+main-captions	MSRvid	2012test	0068	1.000	한 남자가 피아노를 치고 있다.	한 여성이 바이올린을 연주하고 있다.
+main-captions	MSRvid	2012test	0069	1.000	한 여성이 플루트를 연주하고 있다.	남자가 기타를 치고 있다.
+main-captions	MSRvid	2012test	0070	2.375	남자가 감자를 자르고 있다.	남자가 당근을 자르고 있다.
+main-captions	MSRvid	2012test	0071	3.800	한 아이가 기타를 치고 있다.	한 소년이 기타를 치고 있다.
+main-captions	MSRvid	2012test	0072	3.200	한 소년이 기타를 치고 있다.	남자가 기타를 치고 있다.
+main-captions	MSRvid	2012test	0073	3.200	남자가 기타를 치고 있다.	한 소년이 기타를 치고 있다.
+main-captions	MSRvid	2012test	0075	4.400	어린 소년이 키보드를 연주하고 있다.	한 소년이 키보드를 하고 있다.
+main-captions	MSRvid	2012test	0077	3.750	남자가 기타를 치고 있다.	한 남자가 일렉트릭 기타를 연주하고 있다.
+main-captions	MSRvid	2012test	0078	4.750	개가 아기를 핥는다.	개가 아기를 핥고 있다.
+main-captions	MSRvid	2012test	0080	3.200	한 여성이 양파를 자르고 있다.	남자가 양파를 자르고 있다.
+main-captions	MSRvid	2012test	0081	1.556	남자가 기타를 치고 있다.	남자가 드럼을 치고 있다.
+main-captions	MSRvid	2012test	0083	3.938	여자가 후추를 썰고 있다.	여자가 고추를 자르고 있다.
+main-captions	MSRvid	2012test	0084	5.000	남자가 드럼을 치고 있다.	남자가 드럼을 연주한다.
+main-captions	MSRvid	2012test	0085	5.000	여자가 말을 탄다.	여자가 말을 타고 있다.

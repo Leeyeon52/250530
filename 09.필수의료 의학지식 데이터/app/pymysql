@@ -1,0 +1,18 @@
+import pymysql
+
+conn = pymysql.connect(
+    host='localhost',
+    user='root',
+    password='비밀번호',
+    db='medical_chatbot',
+    charset='utf8mb4'
+)
+
+cur = conn.cursor()
+cur.execute("SELECT * FROM qa_pairs")
+
+for row in cur.fetchall():
+    print(row)
+
+cur.close()
+conn.close()
